@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Website",
+    "description": "My personal portfolio website built with React.",
+    "link": "http://example.com/project1"
+  },
+  {
+    "id": 2,
+    "title": "Todo App",
+    "description": "A simple todo app using React and JSON backend.",
+    "link": "http://example.com/project2"
+  },
+  {
+    "id": 3,
+    "title": "Blog Platform",
+    "description": "A blog platform built with Node.js and Express.",
+    "link": "http://example.com/project3"
+  }
+]
